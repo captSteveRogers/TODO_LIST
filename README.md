@@ -3,6 +3,8 @@ This is a completely functional ToDo List page
 
 This is a frontend project, created by using HTML, CSS, Javascript, and jQuery. This is a TODO List page, where people can write their TODOS, and strike them out after completion or delete the TODOS. They wil add new TODOs using the text bax provided. 
 
+Hosted Link :  https://shantam0810.github.io/TODO_LIST/
+
 The features are as follows:
 
 1. Gradient used in the page is taken from http://www.uigradients.com
